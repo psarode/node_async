@@ -1,0 +1,13 @@
+[
+    {"txnno":"1", "date":"08/18/2015", "description":"Bob Burger" ,"amount":"$9", "charge": ""}, 
+    {"txnno":"2","date":"08/20/2015", "description":"Mobil" ,"amount":"$150", "charge": ""}, 
+    {"txnno":"3","date":"08/21/2015", "description":"Check 115" ,"amount":"$150", "charge": ""},
+    {"txnno":"4","date":"08/22/2015", "description":"Hurtz Rental" ,"amount":"300", "charge": ""},
+    {"txnno":"5","date":"08/23/2015", "description":"Bank Charge" ,"amount":"", "charge": "$2"},
+    {"txnno":"6","date":"08/24/2015", "description":"CVS Pharmacy" ,"amount":"$25", "charge": ""},
+    {"txnno":"7","date":"08/24/2015", "description":"Doe" ,"amount":"$70", "charge": ""},
+    {"txnno":"8","date":"08/24/2015", "description":"Interest Payment" ,"amount":"$3", "charge": ""},
+    {"txnno":"9","date":"08/24/2015", "description":"Daycare" ,"amount":"$1050", "charge": ""},
+    {"txnno":"10","date":"08/27/2015", "description":"Insufficient Fund Transfer" ,"amount":"", "charge": "$30"}
+
+]
